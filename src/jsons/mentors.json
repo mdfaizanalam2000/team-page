@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Shubham",
+        "university": "Cambridge University"
+    },
+    {
+        "name": "Virat",
+        "university": "Harvard University"
+    },
+    {
+        "name": "Rahul",
+        "university": "University of California"
+    },
+    {
+        "name": "Rohit",
+        "university": "ETH Zurich"
+    },
+    {
+        "name": "Dhoni",
+        "university": "Max Planck"
+    },
+    {
+        "name": "Ishan",
+        "university": "University of Edinburg"
+    },
+    {
+        "name": "Irfan",
+        "university": "John's  Hopkins"
+    },
+    {
+        "name": "Tushar",
+        "university": "Michigan State"
+    },
+    {
+        "name": "Abdul",
+        "university": "University of Illinois"
+    },
+    {
+        "name": "Zeeshan",
+        "university": "Humboldt University Berlin"
+    },
+    {
+        "name": "Shreya",
+        "university": "Jamia Millia Islamia"
+    },
+    {
+        "name": "Disha",
+        "university": "Aligarh Muslim University"
+    }
+]
